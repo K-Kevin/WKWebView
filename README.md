@@ -13,8 +13,6 @@
 
 <a href="http://www.brighttj.com/ios/ios-wkwebview-new-features-and-use.html">WKWebView的新特性与使用</a>
 
-<a href="http://www.brighttj.com/ios/ios-wkwebview-new-features-and-use.html">WKWebView的新特性与使用</a>
-
 <a href="http://www.hotobear.com/?p=741">WebKit in iOS 8</a>
 
 
@@ -29,9 +27,7 @@ cookie相关：
 
 参考：
 
-<a href="https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/WebKit/ObjC_classic/index.html#//apple_ref/doc/uid/TP30000745
-
-">WebKit Objective-C Framework Reference</a>
+<a href="https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/WebKit/ObjC_classic/index.html#//apple_ref/doc/uid/TP30000745">WebKit Objective-C Framework Reference</a>
 
 <a href="https://developer.apple.com/videos/wwdc/2014/">Introducing the Modern WebKit API</a>
 
