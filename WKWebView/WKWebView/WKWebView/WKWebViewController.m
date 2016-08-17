@@ -144,7 +144,7 @@
     decisionHandler(WKNavigationActionPolicyAllow);
 }
 
-#pragma mark - TNH5TopBarViewDelegate
+#pragma mark - H5TopBarViewDelegate
 
 - (void)wkTopBarView:(WKTopBarView *)wkTopBarView buttonTapActionTapType:(WKTopBarTapEvents)tapEvent {
     switch (tapEvent) {
