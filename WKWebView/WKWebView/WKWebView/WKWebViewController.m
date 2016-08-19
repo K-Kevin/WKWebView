@@ -43,6 +43,7 @@
     [self.wkWebView addObserver:self forKeyPath:@"estimatedProgress" options:NSKeyValueObservingOptionNew context:NULL];
     [self.wkWebView addObserver:self forKeyPath:@"title" options:NSKeyValueObservingOptionNew context:NULL];
     
+    self.webUrlString = [self.webUrlString stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
     NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:self.webUrlString]];
     [self.wkWebView loadRequest:request];
 
